@@ -12,12 +12,11 @@ git clone https://github.com/Manga-Man/lock.js.git
 ❓How to embed?<br>
 Replace the YOUR_PASSWORD_HERE with your password and your done
 <br>
-```
 
+```
 <script src="https://manga-man.github.io/lock.js/Script.js"></script>
 <script>setpwd("YOUR_PASSWORD_HERE")</script>
    <!-- made by manga man [https://github.com/Manga-Man/lock.js/] -->
-   
 ```
 <br>
 
