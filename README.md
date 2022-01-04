@@ -15,5 +15,6 @@ Replace the YOUR_PASSWORD_HERE with your password and your done
 
 Demo: https://manga-man.github.io/lock.js/index.html
 Password for Demo: 1234
+<br>
 🌟Pls show your support by giving this repository a star🌟<br>
 
