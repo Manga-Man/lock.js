@@ -5,9 +5,7 @@ Embed a script to your website to protect it with a password...
 <br>
 Download<br>
 ``` 
-
 git clone https://github.com/Manga-Man/lock.js.git 
-
 ```
 <br>
 <br>
@@ -15,10 +13,12 @@ git clone https://github.com/Manga-Man/lock.js.git
 Replace the YOUR_PASSWORD_HERE with your password and your done
 <br>
 ```
+
 <script src="https://manga-man.github.io/lock.js/Script.js"></script>
 <script>setpwd("YOUR_PASSWORD_HERE")</script>
    <!-- made by manga man [https://github.com/Manga-Man/lock.js/] -->
-   ```
+   
+```
 <br>
 
 Demo: https://manga-man.github.io/lock.js/index.html
