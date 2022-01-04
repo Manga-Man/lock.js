@@ -25,11 +25,3 @@ function setpwd(pwd) {
 }
 
 }
-//while (Password != pwd) {
-//if (Password != pwd) {
- //   document.write("<style> * { visibility: hidden;} </style>")
-//} else if (Password === pwd) {
-  //  document.write("<style> * { visibility: ;} !important</style>")
-//}
-
-//}
