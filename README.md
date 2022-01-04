@@ -7,9 +7,9 @@ Embed a script to your website to protect it with a password...
 Replace the YOUR_PASSWORD_HERE with your password and your done
 <br>
 ```
-<link href="https://manga-man.github.io/lock.js/Script.js">
-   <script>setpwd("YOUR_PASSWORD_HERE")</script>
-   //powered by Keywi [https://github.com/Manga-Man/lock.js/] 
+<script src="https://manga-man.github.io/lock.js/Script.js"></script>
+<script>setpwd("YOUR_PASSWORD_HERE")</script>
+   <!-- made by manga man [https://github.com/Manga-Man/lock.js/] -->
    ```
 <br>
 🌟Pls show your support by giving this repository a star🌟<br>
