@@ -1,7 +1,7 @@
 # lock.js
 Embed a script to your website to protect it with a password...
 <br>
-<img src="manga-man.github.io/lock.gif">
+<img src="manga-man.github.io/lock.js/lock.gif">
 <br>
 ❓How to embed?<br>
 Replace the YOUR_PASSWORD_HERE with your password and your done
