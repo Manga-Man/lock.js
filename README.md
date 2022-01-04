@@ -5,8 +5,8 @@ Embed a script to your website to protect it with a password...
 <br>
 Download<br>
 ```
-git clone https://github.com/Manga-Man/lock.js.git
-```
+git clone https://github.com/Manga-Man/lock.js.git ```
+
 <br>
 ❓How to embed?<br>
 Replace the YOUR_PASSWORD_HERE with your password and your done
