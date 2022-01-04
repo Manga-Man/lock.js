@@ -9,7 +9,7 @@ Replace the YOUR_PASSWORD_HERE with your password and your done
 ```
 <link href="https://manga-man.github.io/Keywi/Script.js">
    <script>setpwd("YOUR_PASSWORD_HERE")</script>
-   //powered by Keywi [https://github.com/Manga-Man/Keywi/] 
+   //powered by Keywi [https://github.com/Manga-Man/lock.js/] 
    ```
 <br>
 🌟Pls show your support by giving this repository a star🌟<br>
