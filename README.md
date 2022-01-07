@@ -16,7 +16,16 @@ Replace the YOUR_PASSWORD_HERE with your password and your done
 ```
 <script src="https://manga-man.github.io/lock.js/Script.js"></script>
 <script>setpwd("YOUR_PASSWORD_HERE")</script>
-   <!-- made by manga man [https://github.com/Manga-Man/lock.js/] -->
+<noscript>
+    <style type="text/css">
+        .pagecontainer {display:none;}
+    </style>
+    <div class="noscriptmsg">
+    You don't have javascript enabled.  Good luck with that.
+    </div>
+</noscript>
+ 
+ <!-- made by manga man [https://github.com/Manga-Man/lock.js/] -->
 ```
 <br>
 
